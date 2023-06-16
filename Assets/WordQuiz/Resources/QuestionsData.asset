@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b762a7796d94449896cd40528add32, type: 3}
+  m_Name: QuestionsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 9932e267aaabab248948e689b6cc7734, type: 3}
+    answer: Earth
+  - questionImage: {fileID: 21300000, guid: 498dbf41092a1ee429ad6422b37cc395, type: 3}
+    answer: Bicycle
+  - questionImage: {fileID: 21300000, guid: aa9457f108bc64f489ec7673b9f65d0d, type: 3}
+    answer: Rocket
+  - questionImage: {fileID: 21300000, guid: cbedc86fb919ca140aa4e324035e5eb8, type: 3}
+    answer: Candle
+  - questionImage: {fileID: 21300000, guid: 447f185ecd7fb8a47b1462c36506259b, type: 3}
+    answer: Motor
